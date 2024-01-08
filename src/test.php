@@ -31,4 +31,4 @@ $result = $collection->replaceOne(
 echo "Eintrag erfolgreich aktualisiert bzw. erstellt.";
 
 
-?>^
+?>
